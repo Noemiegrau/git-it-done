@@ -18,6 +18,8 @@ Project is created using:
 * Third party API (jQuery, jQuery moment, Bootstrap)
 
 ## **_Mockup_**
+![image](https://user-images.githubusercontent.com/78329298/111912538-589d6600-8a27-11eb-8283-047c628f8ef6.png)
+
 
 ## **_Link URL to deployed app on GitHub_**
 https://noemiegrau.github.io/git-it-done/

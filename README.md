@@ -8,7 +8,7 @@
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Description of the project_**
-This project is a 
+This project allows the user to search for a GitHub user or click on a language to see a list of repositories and how many open issues they have.
 
 ## **_Technologies used_**
 Project is created using:
